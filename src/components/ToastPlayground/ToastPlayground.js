@@ -19,7 +19,7 @@ function ToastPlayground() {
     setMessage("");
     setVariant(VARIANT_OPTIONS[0]);
   };
-  
+
   return (
     <div className={styles.wrapper}>
       <header>
